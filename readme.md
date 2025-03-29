@@ -42,3 +42,6 @@ Now how to merge this change to the main branch , beacuse the main branch still 
 to do this we need a pull request , it lets you share your changes with your team and get it reviewed , once approved , your code becomes part of the main branch , keeping the code stable and organized
 
 you can do it manually as well as code , we will do it manually
+now to go to our main branch , do git pull , to get latest code from the remote to your local code
+
+git pull/push means git pull/push origin main
