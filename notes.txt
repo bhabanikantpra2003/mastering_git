@@ -1,0 +1,2 @@
+##a branch is the parallel version of your project
+##commit , means like taking a snapshot of the code at that exact moment and storing the info about that snapshot
