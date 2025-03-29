@@ -32,6 +32,7 @@ updated the content
 git add ./
 git commit -m "message-here"
 git push -u origin feature-branch
+why we write git push , so that to send this code from local to remote
 
 now every time you can just write git push ,, instead of writing push -u origin ...
 also for downloading the latest code from the remote file to local file use :
